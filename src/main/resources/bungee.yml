@@ -1,0 +1,4 @@
+name: AntiFtpSh
+version: ${project.version}
+main: org.l2x9.antiftpsh.AntiFtpSh
+description: Prevent people from joining on l2x9.ftp.sh
